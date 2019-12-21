@@ -1,0 +1,1 @@
+The integrated code (triangle_final) theoretically works, but a slightly different version (master_car & slave_car) of this failed when we were doing test runs on the Demo day. It may be some interference between pairing parts and the rest that we were not able to figure out. 
